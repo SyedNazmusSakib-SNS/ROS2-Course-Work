@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: my-robot-description
+Version: 0.0.0
+Summary: Double Pendulum Arm Robot Description Package
+Maintainer: sns
+Maintainer-email: syednazmussakib64@gmail.com
+License: MIT
+Provides-Extra: test

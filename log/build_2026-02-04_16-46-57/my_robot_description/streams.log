@@ -1,0 +1,27 @@
+[0.637s] Invoking command in '/media/sns/Study/1_RME/Ros2/ros2_ws/build/my_robot_description': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/sns/Study/1_RME/Ros2/ros2_ws/build/my_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/sns/Study/1_RME/Ros2/ros2_ws/install/my_robot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /media/sns/Study/1_RME/Ros2/ros2_ws/build/my_robot_description/build --no-deps symlink_data
+[0.826s] running develop
+[0.940s] running egg_info
+[0.940s] creating my_robot_description.egg-info
+[0.952s] writing my_robot_description.egg-info/PKG-INFO
+[0.953s] writing dependency_links to my_robot_description.egg-info/dependency_links.txt
+[0.953s] writing requirements to my_robot_description.egg-info/requires.txt
+[0.953s] writing top-level names to my_robot_description.egg-info/top_level.txt
+[0.953s] writing manifest file 'my_robot_description.egg-info/SOURCES.txt'
+[0.976s] reading manifest file 'my_robot_description.egg-info/SOURCES.txt'
+[0.976s] writing manifest file 'my_robot_description.egg-info/SOURCES.txt'
+[0.988s] running build_ext
+[0.990s] Creating /media/sns/Study/1_RME/Ros2/ros2_ws/install/my_robot_description/lib/python3.12/site-packages/my-robot-description.egg-link (link to .)
+[0.990s] 
+[0.990s] Installed /media/sns/Study/1_RME/Ros2/ros2_ws/build/my_robot_description
+[0.990s] running symlink_data
+[0.990s] creating /media/sns/Study/1_RME/Ros2/ros2_ws/install/my_robot_description/share/ament_index
+[0.991s] creating /media/sns/Study/1_RME/Ros2/ros2_ws/install/my_robot_description/share/ament_index/resource_index
+[0.991s] creating /media/sns/Study/1_RME/Ros2/ros2_ws/install/my_robot_description/share/ament_index/resource_index/packages
+[0.991s] symbolically linking /media/sns/Study/1_RME/Ros2/ros2_ws/build/my_robot_description/resource/my_robot_description -> /media/sns/Study/1_RME/Ros2/ros2_ws/install/my_robot_description/share/ament_index/resource_index/packages
+[0.991s] symbolically linking /media/sns/Study/1_RME/Ros2/ros2_ws/build/my_robot_description/package.xml -> /media/sns/Study/1_RME/Ros2/ros2_ws/install/my_robot_description/share/my_robot_description
+[0.991s] creating /media/sns/Study/1_RME/Ros2/ros2_ws/install/my_robot_description/share/my_robot_description/launch
+[0.992s] symbolically linking /media/sns/Study/1_RME/Ros2/ros2_ws/build/my_robot_description/launch/display.launch.py -> /media/sns/Study/1_RME/Ros2/ros2_ws/install/my_robot_description/share/my_robot_description/launch
+[0.992s] creating /media/sns/Study/1_RME/Ros2/ros2_ws/install/my_robot_description/share/my_robot_description/urdf
+[0.992s] symbolically linking /media/sns/Study/1_RME/Ros2/ros2_ws/build/my_robot_description/urdf/robot.urdf.xacro -> /media/sns/Study/1_RME/Ros2/ros2_ws/install/my_robot_description/share/my_robot_description/urdf
+[0.992s] creating /media/sns/Study/1_RME/Ros2/ros2_ws/install/my_robot_description/share/my_robot_description/rviz
+[1.016s] Invoked command in '/media/sns/Study/1_RME/Ros2/ros2_ws/build/my_robot_description' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/sns/Study/1_RME/Ros2/ros2_ws/build/my_robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/sns/Study/1_RME/Ros2/ros2_ws/install/my_robot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /media/sns/Study/1_RME/Ros2/ros2_ws/build/my_robot_description/build --no-deps symlink_data
