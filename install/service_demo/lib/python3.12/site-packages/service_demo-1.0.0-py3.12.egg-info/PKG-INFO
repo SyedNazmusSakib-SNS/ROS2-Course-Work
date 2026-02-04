@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: service-demo
+Version: 1.0.0
+Summary: ROS 2 Service Demo - Learn Request/Response Communication
+Maintainer: sns
+Maintainer-email: syednazmussakib64@gmail.com
+License: MIT
+Provides-Extra: test

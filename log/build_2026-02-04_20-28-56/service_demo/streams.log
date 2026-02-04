@@ -1,0 +1,22 @@
+[0.505s] Invoking command in '/media/sns/Study/1_RME/Ros2/ros2_ws/src/service_demo': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/service_demo build --build-base /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/build install --record /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/install.log --single-version-externally-managed install_data
+[0.682s] running egg_info
+[0.696s] writing ../../build/service_demo/service_demo.egg-info/PKG-INFO
+[0.696s] writing dependency_links to ../../build/service_demo/service_demo.egg-info/dependency_links.txt
+[0.696s] writing entry points to ../../build/service_demo/service_demo.egg-info/entry_points.txt
+[0.696s] writing requirements to ../../build/service_demo/service_demo.egg-info/requires.txt
+[0.696s] writing top-level names to ../../build/service_demo/service_demo.egg-info/top_level.txt
+[0.724s] reading manifest file '../../build/service_demo/service_demo.egg-info/SOURCES.txt'
+[0.724s] writing manifest file '../../build/service_demo/service_demo.egg-info/SOURCES.txt'
+[0.724s] running build
+[0.724s] running build_py
+[0.725s] running install
+[0.729s] running install_lib
+[0.743s] running install_data
+[0.743s] running install_egg_info
+[0.757s] removing '/media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/python3.12/site-packages/service_demo-1.0.0-py3.12.egg-info' (and everything under it)
+[0.757s] Copying ../../build/service_demo/service_demo.egg-info to /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/python3.12/site-packages/service_demo-1.0.0-py3.12.egg-info
+[0.758s] running install_scripts
+[0.847s] Installing client script to /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/service_demo
+[0.847s] Installing server script to /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/service_demo
+[0.847s] writing list of installed files to '/media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/install.log'
+[0.867s] Invoked command in '/media/sns/Study/1_RME/Ros2/ros2_ws/src/service_demo' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/service_demo build --build-base /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/build install --record /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/install.log --single-version-externally-managed install_data

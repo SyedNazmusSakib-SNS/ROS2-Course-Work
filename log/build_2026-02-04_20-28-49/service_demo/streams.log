@@ -1,0 +1,41 @@
+[0.548s] Invoking command in '/media/sns/Study/1_RME/Ros2/ros2_ws/src/service_demo': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/service_demo build --build-base /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/build install --record /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/install.log --single-version-externally-managed install_data
+[0.700s] running egg_info
+[0.700s] creating ../../build/service_demo/service_demo.egg-info
+[0.713s] writing ../../build/service_demo/service_demo.egg-info/PKG-INFO
+[0.713s] writing dependency_links to ../../build/service_demo/service_demo.egg-info/dependency_links.txt
+[0.713s] writing entry points to ../../build/service_demo/service_demo.egg-info/entry_points.txt
+[0.714s] writing requirements to ../../build/service_demo/service_demo.egg-info/requires.txt
+[0.714s] writing top-level names to ../../build/service_demo/service_demo.egg-info/top_level.txt
+[0.714s] writing manifest file '../../build/service_demo/service_demo.egg-info/SOURCES.txt'
+[0.738s] reading manifest file '../../build/service_demo/service_demo.egg-info/SOURCES.txt'
+[0.739s] writing manifest file '../../build/service_demo/service_demo.egg-info/SOURCES.txt'
+[0.739s] running build
+[0.739s] running build_py
+[0.739s] creating /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/build
+[0.740s] creating /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/build/lib
+[0.740s] creating /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/build/lib/service_demo
+[0.740s] copying service_demo/client.py -> /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/build/lib/service_demo
+[0.740s] copying service_demo/server.py -> /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/build/lib/service_demo
+[0.740s] copying service_demo/__init__.py -> /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/build/lib/service_demo
+[0.740s] running install
+[0.745s] running install_lib
+[0.757s] creating /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/python3.12/site-packages/service_demo
+[0.757s] copying /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/build/lib/service_demo/client.py -> /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/python3.12/site-packages/service_demo
+[0.758s] copying /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/build/lib/service_demo/server.py -> /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/python3.12/site-packages/service_demo
+[0.758s] copying /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/build/lib/service_demo/__init__.py -> /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/python3.12/site-packages/service_demo
+[0.759s] byte-compiling /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/python3.12/site-packages/service_demo/client.py to client.cpython-312.pyc
+[0.759s] byte-compiling /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/python3.12/site-packages/service_demo/server.py to server.cpython-312.pyc
+[0.760s] byte-compiling /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/python3.12/site-packages/service_demo/__init__.py to __init__.cpython-312.pyc
+[0.760s] running install_data
+[0.761s] creating /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/share/ament_index
+[0.761s] creating /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/share/ament_index/resource_index
+[0.761s] creating /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/share/ament_index/resource_index/packages
+[0.761s] copying resource/service_demo -> /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/share/ament_index/resource_index/packages
+[0.761s] copying package.xml -> /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/share/service_demo
+[0.761s] running install_egg_info
+[0.774s] Copying ../../build/service_demo/service_demo.egg-info to /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/python3.12/site-packages/service_demo-1.0.0-py3.12.egg-info
+[0.776s] running install_scripts
+[0.859s] Installing client script to /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/service_demo
+[0.860s] Installing server script to /media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/service_demo
+[0.860s] writing list of installed files to '/media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/install.log'
+[0.878s] Invoked command in '/media/sns/Study/1_RME/Ros2/ros2_ws/src/service_demo' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/sns/Study/1_RME/Ros2/ros2_ws/install/service_demo/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/service_demo build --build-base /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/build install --record /media/sns/Study/1_RME/Ros2/ros2_ws/build/service_demo/install.log --single-version-externally-managed install_data
