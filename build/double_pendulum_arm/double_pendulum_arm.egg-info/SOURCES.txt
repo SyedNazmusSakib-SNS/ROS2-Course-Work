@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+double_pendulum_arm/__init__.py
+double_pendulum_arm.egg-info/PKG-INFO
+double_pendulum_arm.egg-info/SOURCES.txt
+double_pendulum_arm.egg-info/dependency_links.txt
+double_pendulum_arm.egg-info/requires.txt
+double_pendulum_arm.egg-info/top_level.txt
+double_pendulum_arm.egg-info/zip-safe
+launch/display.launch.py
+resource/double_pendulum_arm
+rviz/view_robot.rviz
+urdf/robot.urdf.xacro
